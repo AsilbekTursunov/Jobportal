@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fffab396-b50e-4e21-b60a-ebb3acfaf206" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/%ProgramData%/Microsoft/Windows/UUS/State/_active.uusver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/anonymous/react_native_jobs/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/com/anonymous/react_native_jobs/MainApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-hdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-mdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/react-settings-plugin/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/react-settings-plugin/src/main/kotlin/expo/plugins/ReactSettingsPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/_layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/job-details/[id].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/DMSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/amazon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chevron-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/chevron-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/figma.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/google.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart-ol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/slack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/spotify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/twitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/wattpad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kemal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/nearby/NearbyJobCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/nearby/nearbyjobcard.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/popular/PopularJobCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/cards/popular/popularjobcard.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/ScreenHeaderBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/screenheader.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/nearby/Nearbyjobs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/nearby/nearbyjobs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/popular/Popularjobs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/popular/popularjobs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/welcome/Welcome.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/home/welcome/welcome.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/about/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/about/about.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/company/Company.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/company/company.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/footer/footer.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/specifics/Specifics.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/specifics/specifics.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/tabs/Tabs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jobdetails/tabs/tabs.style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/images.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useFetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mlvqvCpR0Hl11MvaF6NRvTgZXQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.android.tools.idea.streaming.zoom.toolbar.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fffab396-b50e-4e21-b60a-ebb3acfaf206" name="Changes" comment="" />
+      <created>1727664172746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727664172746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
