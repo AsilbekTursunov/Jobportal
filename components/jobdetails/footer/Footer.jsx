@@ -12,7 +12,7 @@ const Footer = ({ url }) => {
         <Image source={icons.heartOutline} resizeMode='contain' style={styles.likeBtnImage} />
       </TouchableOpacity>
       <TouchableOpacity style={styles.applyBtn}>
-        <Text style={styles.applyBtnText} onPress={() => Linking.openURL(url?.job_google_link)}>
+        <Text style={styles.applyBtnText} onPress={() => Linking.openURL(url?.job_apply_link)}>
           Apply Job
         </Text>
       </TouchableOpacity>

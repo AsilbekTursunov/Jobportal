@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react_native_jobs",
-    "slug": "react_native_jobs",
+    "name": "JobPortal",
+    "slug": "JobPortal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,17 +12,28 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "y",
+      "splash": {
+        "image": "./assets/splash-ios.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.react_native_jobs"
+      "package": "com.anonymous.JobPortal"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fcce9567-58ba-4e72-a38a-8d3e9159d1c9"
+      }
     }
   }
 }
