@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   likeBtnImage: {
     width: "40%",
     height: "40%",
-    tintColor: "#F37453",
+    tintColor: COLORS.white,
   },
   applyBtn: {
     flex: 1,

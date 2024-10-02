@@ -8,7 +8,7 @@ import PopularJobCard from '../../common/cards/popular/PopularJobCard'
 import useFetch from '../../../hooks/useFetch'
 
 const Popularjobs = () => {
-  const router = useRouter() 
+  const router = useRouter()
   const { data, isLoading, error } = useFetch('search', {
     query: 'React developer',
     num_pages: '1',

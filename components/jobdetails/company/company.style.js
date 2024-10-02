@@ -17,8 +17,9 @@ const styles = StyleSheet.create({
     borderRadius: SIZES.large,
   },
   logoImage: {
-    width: "80%",
-    height: "80%",
+    width: "100%",
+    height: "100%",
+    borderRadius: SIZES.large,
   },
   jobTitleBox: {
     marginTop: SIZES.small,
@@ -43,8 +44,7 @@ const styles = StyleSheet.create({
   locationBox: {
     flexDirection: "row",
     justifyContent: "center",
-    alignItems: "center",
-    gap:'3px'
+    alignItems: "center", 
   },
   locationImage: {
     width: 14,
